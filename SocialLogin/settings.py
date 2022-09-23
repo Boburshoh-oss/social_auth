@@ -25,7 +25,7 @@ SECRET_KEY = 'ods4!uf17nlu=r(*3c+w!e_a2xphx!)7t%k03n(p+0eb=h0bzd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['login.saminjonov.uz']
 
 
 # Application definition
